@@ -1,6 +1,7 @@
 # TwilioSMS
 
 Using twilio And Volley*<br>
+<Strong>Applying a sample use of twilio Api</strong>
 <h2>Contacts tab     &   History tab</h2>
 
 <img src="https://user-images.githubusercontent.com/41942751/174079181-d436f60a-0c5e-45d3-9e9e-26329544328a.png" width=180>
